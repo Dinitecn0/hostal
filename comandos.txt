@@ -1,0 +1,14 @@
+1
+git init
+
+2
+git status
+
+3
+git add .
+
+4
+git commit -m "aca ba una descripcion"
+
+5
+git push origin NombreDeLaRama
