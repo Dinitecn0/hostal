@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "hostal-lyg",
     "public": "public",
     "ignore": [
       "firebase.json",
